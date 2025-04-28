@@ -1,4 +1,2 @@
-import pyjokes
-
-jokes = pyjokes.get_jokes()
-print(jokes)
+x = int(input("enter "))
+print(x*x)
